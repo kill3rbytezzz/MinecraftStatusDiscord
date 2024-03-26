@@ -2,7 +2,7 @@
 
 This is a discord bot for showing the list of all online player on the server.
 
-![alt text](https://i.ibb.co/896Cjzp/Screenshot-2024-03-26-191406.png)
+![MinecraftStatusDiscord](https://i.ibb.co/896Cjzp/Screenshot-2024-03-26-191406.png)
 ## Getting Started
 
 Simply clone this repo, install requirement package and run the program.
