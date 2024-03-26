@@ -1,0 +1,4 @@
+requests==2.31.0
+discord-py==2.3.2
+asyncio==3.4.3
+disnake==2.9.1
