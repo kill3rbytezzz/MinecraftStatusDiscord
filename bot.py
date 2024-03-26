@@ -6,6 +6,12 @@ from datetime import datetime
 
 # Discord bot token
 TOKEN = 'your_bot_token_here'
+# Channel ID where you want to send/edit the message
+CHANNEL_ID = 123456789  # Replace with your channel ID
+# Change server ip to your domain or your IP Adress
+SERVER_IP = "YOUR_SERVER_IP_OR_DOMAIN"
+
+API_URL = "https://api.mcsrvstat.us/2/"+SERVER_IP #API by https://api.mcsrvstat.us/ more information on the link
 
 # Channel ID where you want to send/edit the message
 CHANNEL_ID = 123456789  # Replace with your channel ID
